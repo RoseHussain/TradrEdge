@@ -1,6 +1,5 @@
 # TradrEdge server
-
-Covers NASDAQ/US stocks, NSE, BSE and crypto. Alerts include a Buy/Sell/Hold signal, the reasons, and the latest headlines with images. Push notifications reach phones even when the app is closed.
+Covers NASDAQ/US stocks, NSE, BSE and crypto. Alerts include a Buy/Sell/Hold signal, the reasons, and the latest headlines. Push notifications reach phones even when the app is closed.
 
 ## Run it
 1. Get a free key at finnhub.io.
